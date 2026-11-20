@@ -1,0 +1,1 @@
+After You Publish media pack. Posts 7-22. Cover.png is a static graphic. For carousel posts 8, 11, 14, 17, 19, 21, upload cover.png followed by slide_02.png etc. For Reels 9, 12, 15, 18 upload reel.mp4. Assets are not yet scheduled in Metricool. All dates in NZDT.
